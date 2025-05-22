@@ -24,15 +24,17 @@
 .inputbox{
     margin-left: 0px;
     width: 401px;
+    height: 28px;
+    border-bottom-right-radius: 5px;
   }
 .placearea{
     
-    height: 52px;
+    height: 51.9px;
     width:400px;
     padding-top: 5px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-   
+   border-bottom-right-radius: 3px;
     border-right: none;
     border: 2px solid rgb(123, 120, 120);
 }
